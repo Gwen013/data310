@@ -1,4 +1,4 @@
-# data310tues1
+# data310
 
 #informal exercises
 - Module 1
