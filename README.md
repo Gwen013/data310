@@ -3,7 +3,7 @@
 #informal exercises
 - Module 1
 
-    -[Tuesdays Response](tuesday1.md)
+    -[Tuesdays Response](01tuesdayresponse.md)
 
 - Moldule 2
 
