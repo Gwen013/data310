@@ -1,0 +1,20 @@
+Thursday Exercise
+1. The model is performming well and the training and validation accuracy and loss follow a very similar pattern.
+2. With an accuracy of about 74% we can use the test data to validate our model.
+3.
+    export_model.predict(examples)
+     array([[0.5513627 , 0.40722254, 0.4448905 , 0.5768401 ],
+     [0.5875802 , 0.38242897, 0.5630223 , 0.45748726],
+     [0.7534702 , 0.61576515, 0.38523862, 0.25435194]], dtype=float32
+Label 0 corresponds to csharp
+Label 1 corresponds to java
+Label 2 corresponds to javascript
+Label 3 corresponds to Python
+
+- Python test: The model accurately categorized the question as a python tag.
+
+- Javascript test: The model did not accurately categorize the question as javascript and instead recognized it as csharp.
+
+- C# test: The model accurately categorized the question as a c# tag.
+
+4.
