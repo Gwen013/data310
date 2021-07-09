@@ -1,4 +1,3 @@
-
 Thursday Exercise
 1. The model is performing well and the training and validation accuracy and loss follow a very similar pattern.
 2. The model accurately predicts what type of code the question input is pertraining to about 74%  of the time so we can be realtively confident in our model.
