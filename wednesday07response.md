@@ -4,7 +4,7 @@ Wednesday's Response
    ![img_1.png](img_1.png)
    ![img_2.png](img_2.png)
 2. - predictions[3]
-     array
+     arrays
      ([3.6671641e-09, 1.0000000e+00, 8.4066903e-12, 2.8593914e-09,
      1.2264663e-09, 4.9193018e-22, 1.2822771e-09, 4.5023612e-27,
      1.0708230e-16, 2.3360760e-15], dtype=float32)
