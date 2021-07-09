@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 Thursday Exercise
 1. The model is performing well and the training and validation accuracy and loss follow a very similar pattern.
-2. With an accuracy of about 74% we can use the test data to validate our model.
+2. The model accurately predicts what type of code the question input is pertraining to about 74%  of the time so we can be realtively confident in our model.
 3.
 export_model.predict(examples)
 array([[0.5513627 , 0.40722254, 0.4448905 , 0.5768401 ],
@@ -37,4 +37,4 @@ Label 3 corresponds to Python
 - Javascript test: The model did not accurately categorize the question as javascript and instead recognized it as csharp.
 
 - C# test: The model accurately categorized the question as a c# tag.
->>>>>>> origin/main
+4. The most significant difference ebtween the two models is how many classifications there are for the model to sort between as the mutli-class model had 4, but the binary class model had only two. The models for the multi-class data appeared to be more accurate as the training and test data followed more similar patterns than the binary data, however the binary test data produced an accuracy of about 87% whereas the multi-class test data produced an accuracy of about 74%. Based on the accuracies it seems that the binary data performed better and trained the model more effectively to produce better test results.
