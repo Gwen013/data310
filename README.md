@@ -11,9 +11,7 @@
 - Module 3
     - [Thursdays Response](writeup01.md)
 
-
-
-##Projects
+# Projects
 
 -  [Project 1](project1.md)
 
