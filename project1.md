@@ -1,8 +1,7 @@
+# Project 1
 
-##Project 1
-
-![img_13.png](img_13.png)
-![img_15.png](img_15.png)
+- ![img_13.png](img_13.png)
+- ![img_15.png](img_15.png)
 1. The model produced a correlation coefficient of 0.849, this indicates that the model predicted values that followed a relatively similar pattern to the actual prices and the model did a pretty good job. It followed the trend of the actual data about 85% of the time. The mean sqaured error was about 3.789 with the scaled data which is a decent mse value indicating the average squared difference between the predicted values and actual value was 3.789 which is relatively low for an mse value, another indication that the model fared well. The loss graph also indicated that the model learned fairly well as the number of iterations increased.
 2. The scaling of the features would probably improve the model performance. I think finding a number specific to each feature that would ensure the most fair scaling for each feature would improve the model rather than using large baseline numbers to scale the data.
 3. The model tended to overpredict home values. When comparing the differences between the actual price and the predicted price but subtracting the former from the latter, the 50th percentile of that data was at 0.26, just above a difference value of 0 indicating the model overpredicted. 
