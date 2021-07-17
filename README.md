@@ -25,5 +25,3 @@ Week 2
 
 
 
--Projec
-Project 2
