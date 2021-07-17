@@ -15,6 +15,9 @@ Week 1
 Week 2
 -  Module 1
     - [Mondays Response](Monday12Response.md)
+    - [Tuesdays Response](13TuesdayResponse.md)
+    - [Tuesday Response Pt. 2](14WednesdayResponse.md)
+    - [Thursday Response](https://eanelson01.github.io/DATA310/mod2/thursday2.html)
 
 # Projects
 
