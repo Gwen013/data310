@@ -38,13 +38,18 @@ This filter appeared to pick up on the horizontal lines of the background as wel
 
 ### 3. 
 - In effect what have you accomplished by applying this filter? 
-    - 
+    - We have reduced the image size to a simpler version and increased contrast between all lines highlighted, notice the more differentiated lines in the dark backrgound. The image is easier to explain overall.
     
 - Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)? 
+    - The pooling minimizes the overall amount of information, but retains the present features. It minimizes the amount of values the model needs to process and maximizes the processing/focus on the values of the present features.
 
 - Did the resulting image increase in size or decrease? Why would this method be useful? 
     - The resulting image size decreased. This would be useful if we needed to simplify an image to emphasize the features of it we wanted to focus on most strongly.
 
 Matrix Exercise:
+
+![img_31.png](img_31.png)
+
+Answer:
 
 ![img_28.png](img_28.png)
