@@ -1,6 +1,6 @@
 # data310
 
-#Informal Responses
+# Informal Responses
 Week 1
 
 [Tuesdays Response](01tuesdayresponse.md)
