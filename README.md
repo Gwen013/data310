@@ -19,6 +19,9 @@ Week 2
 
 [Thursday Response](https://eanelson01.github.io/DATA310/mod2/thursday2.html)
 
+Week 3
+
+
 # Projects
 
 -  [Project 1](project1.md)
