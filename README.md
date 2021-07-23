@@ -19,21 +19,9 @@ Week 2
 
 [Thursday Response](https://eanelson01.github.io/DATA310/mod2/thursday2.html)
 
-Week 3
-
-[Mondays Response]
-
-[Tuesdays Response]
-
-[Wednesdays Response](https://huatao-wm.github.io/data310/week3/wed3.html)
-
-[Thursdays Response]
-
 # Projects
 
 -  [Project 1](project1.md)
-
-- [Project 2]
 
 
 
