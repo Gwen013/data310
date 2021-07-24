@@ -21,6 +21,10 @@ Week 2
 
 Week 3
 
+[Mondays Response](19MondayResponse.md)
+
+[Wednesdays Response](https://huatao-wm.github.io/data310/week3/wed3.html)
+
 [Thursdays Response](22ThursdayResponse.md)
 
 # Projects
