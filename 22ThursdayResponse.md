@@ -1,3 +1,5 @@
+Group: Gwen Wagner, Annabel Richter, Alaa Mokbel
+
 ## Dataset Information:
 
 The **locations** and the number of them recorded included in the dataset were the following:
