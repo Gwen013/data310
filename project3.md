@@ -14,11 +14,11 @@ Wealth Class 5=  0.9631895422935486 ***
  *least accurate predictions *** most accurate predictions
 
 ![img_44.png](img_44.png)
-This model produced an accuracy of 0.7384902238845825. People in the middle wealth classes will have less consistency in features such as education, potable, toilet, and cook. The lowest wealth class likely had a higher accuracy because very low wealth areas tend to have little variance in their access to certain facilities, but middle wealth classes (2) may have greater inconsistency. 
+This model produced an accuracy of 0.7384902238845825. People in the middle wealth classes will have less consistency in features such as education, potable, toilet, and cook. The lowest wealth class likely had a higher accuracy because very low wealth areas tend to have little variance in their access to certain facilities, but middle wealth classes (2) may have greater inconsistency.  The model was likely to predict something was not wealth class 2 correctly.
 
 
 ![img_45.png](img_45.png)
-This model produced an accuracy of 0.9631895422935486. The higher accuracy is likely due to the greater consistency of features like education, location, potable, toilet, and cook in higher wealth classes. It is more likely people of higher wealth classes have access to the same basic facilities.
+This model produced an accuracy of 0.9631895422935486. The higher accuracy is likely due to the greater consistency of features like education, location, potable, toilet, and cook in higher wealth classes. It is more likely people of higher wealth classes have access to the same basic facilities. 
 
 
 
@@ -26,9 +26,9 @@ This model produced an accuracy of 0.9631895422935486. The higher accuracy is li
 Next I designed a model that used the five wealth classes as categorical data.  
 
 ![img_41.png](img_41.png)
-This model produced an accuracy of 0.584923267364502 and used the following indicator columns: gender, location, potable, toilet, car, cook, dropped the columns wealth, hhid, pnmbr, weights, and unit. For the numerical columns the model used size, age, and education.
+This model produced an accuracy of 0.584923267364502 and used the following indicator columns: gender, location, potable, toilet, car, cook, dropped the columns wealth, hhid, pnmbr, weights, and unit. For the numerical columns the model used size, age, and education. 
 
-
+Then I attempted to improve the accuracy by removing certain features that were most likely to cause inconsistency that made it more difficult for the model to understand.
 ![img_40.png](img_40.png)
 
 This model prodcued an accuracy of 0.5963293313980103 and used the following indicator columns: gender, location, potable, toilet, electric, cook, dropped the columns wealth, hhid, pnmbr, weights, and unit. It used size and education as the numerical columns.
