@@ -33,5 +33,7 @@ Week 3
 
 -  [Project 1](project1.md)
 
+- [Project 3](project3.md)
+
 
 
