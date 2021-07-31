@@ -33,7 +33,7 @@ Week 4
 
 [Wednesdays Response](28WednesdayResponse.md)
 
-)
+[Thursdays Response](29ThursdayResponse.md)
 
 # Projects
 
